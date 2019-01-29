@@ -99,7 +99,9 @@ AUC(Area under Curve)：Roc曲线下的面积，介于0.1和1之间。Auc作为�
 
 > 详见奇点计划-决赛-我只吃两个剩下的都给你-解决方案.pdf
 
-我们三个队友一起完成，B榜最后得分0.86295。
+我们三个队友一起完成.
+https://github.com/chenkkkk
+https://github.com/FNo0
 
 #### 运行说明
 
